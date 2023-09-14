@@ -1,6 +1,6 @@
 Prueba Tecnica I4digital
 
-Tener en cuenta, para ejecutar el proyecto hay que tener dos consolas en simultaneo abierto.
+Tener en cuenta, para ejecutar el proyecto hay que tener dos consolas en simultaneo abierto, y tambien, la base de datos fue creada directamente con MySql.
 
 Para iniciar primero, ejecutar el archivo de la creacion base de datos ubicada en la carpeta /database.
 
